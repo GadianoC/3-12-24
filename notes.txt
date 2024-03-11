@@ -1,0 +1,11 @@
+Documentation:
+
+Create Status class ✅
+Create Player class ✅
+Create Enemy class ✅
+Create Attacking System ✅
+Create Weapon System ✅
+Create Encounter System 
+Create Dice System
+Create Gambling System
+Create Selecting System
